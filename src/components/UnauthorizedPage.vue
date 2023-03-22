@@ -106,7 +106,6 @@
   }
   
   .blue-button {
-    position: absolute;
     background-color: #3D8AF7;
     padding: 10px 20px;
     font-size: 16px;
@@ -115,7 +114,7 @@
     border: none;
     width: 410.4px;
     height: 50.28px;
-    top: 520.14px;
+    margin-top: 270.14px;
     left: 478px;
     font-family: 'SF Pro Text';
     font-style: normal;
