@@ -1,0 +1,38 @@
+
+.unauthorize-screen-container {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .logo-container {
+    margin-bottom: 20px;
+  }
+
+  .logo {
+    width: 69.18px;
+    height: 72.02px;
+  }
+  
+  .content-container {
+    background-color: #f2f2f2;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+  }
+  
+  .write-up {
+    margin-bottom: 20px;
+  }
+  
+  .blue-button {
+    background-color: blue;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
